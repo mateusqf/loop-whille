@@ -1,0 +1,16 @@
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\Atv loop whille.exe
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\Atv loop whille.deps.json
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\Atv loop whille.runtimeconfig.json
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\Atv loop whille.runtimeconfig.dev.json
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\Atv loop whille.dll
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\ref\Atv loop whille.dll
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\bin\Debug\net5.0\Atv loop whille.pdb
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.dll
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\ref\Atv loop whille.dll
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.pdb
+C:\Users\Mateus\source\repos\Atv loop\Atv loop whille\obj\Debug\net5.0\Atv loop whille.genruntimeconfig.cache
